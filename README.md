@@ -15,7 +15,7 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
 2. Update the config file for SquadJS:
 
 <code>
- {
+       {
       "plugin": "AutoKickNoSquadLeaderKit",
       "enabled": true,
       "warningMessage": "You must equip a squad leader kit to stay in this role.",
