@@ -13,7 +13,7 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
    git clone https://github.com/dukesix144/SquadJS-Autokick-SquadLeader-Kit.git
 
 2. Update the config file for SquadJS:
-
+[code]
  {
       "plugin": "AutoKickNoSquadLeaderKit",
       "enabled": true,
@@ -23,3 +23,4 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
       "kickTimeout": 300,
       "playerThreshold": 51 
       },
+[/code]
