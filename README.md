@@ -4,7 +4,7 @@ Key features:
 - **Feature 1:** For SquadJS.
 
 
-## Usage
+## Usage ##
 
 To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below:
 
