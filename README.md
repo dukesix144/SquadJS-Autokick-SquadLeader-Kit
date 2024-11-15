@@ -16,7 +16,6 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
 
 2. **Update the config file for SquadJS**:
 
-<code>
        {
       "plugin": "AutoKickNoSquadLeaderKit",
       "enabled": true,
@@ -26,11 +25,10 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
       "kickTimeout": 300,
       "playerThreshold": 51 
       },
-</code>
 
 
-3. **MOTD Sample**
-<pre>
+4. **MOTD Sample**
+   
 Top 10 RR Leaderboard:
     ELO       PLAYER
 | 2,208.21 | theseus |
