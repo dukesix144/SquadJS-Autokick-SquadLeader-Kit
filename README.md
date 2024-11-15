@@ -28,9 +28,8 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
       },
 </code>
 
-<code>
+<pre>
 Top 10 RR Leaderboard:
-
     ELO       PLAYER
 | 2,208.21 | theseus |
 | 1,507.34 | Targetlockon |
@@ -42,5 +41,4 @@ Top 10 RR Leaderboard:
 | 1,289.66 | L33P |
 | 1,276.68 | CREEPY UNCLE SOLDIER |
 | 1,273.40 | DerpyDuck-_ |
-
-</code>
+</pre>
