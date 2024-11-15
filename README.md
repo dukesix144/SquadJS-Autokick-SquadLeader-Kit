@@ -27,7 +27,8 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
       "playerThreshold": 51 
       },
 </code>
-<br>
+
+
 **MOTD Sample**
 <pre>
 Top 10 RR Leaderboard:
