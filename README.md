@@ -29,7 +29,7 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
 </code>
 
 
-**MOTD Sample**
+3. **MOTD Sample**
 <pre>
 Top 10 RR Leaderboard:
     ELO       PLAYER
