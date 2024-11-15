@@ -14,7 +14,7 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
    ```bash
    git clone https://github.com/dukesix144/SquadJS-Autokick-SquadLeader-Kit.git
 
-2. Update the config file for SquadJS:
+2. **Update the config file for SquadJS**:
 
 <code>
        {
@@ -28,6 +28,7 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
       },
 </code>
 
+**MOTD Sample**
 <pre>
 Top 10 RR Leaderboard:
     ELO       PLAYER
