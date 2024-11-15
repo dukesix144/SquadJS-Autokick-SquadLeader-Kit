@@ -15,20 +15,20 @@ To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below
    git clone https://github.com/dukesix144/SquadJS-Autokick-SquadLeader-Kit.git
 
 2. **Update the config file for SquadJS**:
-
-       {\n
-      "plugin": "AutoKickNoSquadLeaderKit",\n
-      "enabled": true,\n
-      "warningMessage": "You must equip a squad leader kit to stay in this role.",\n
-      "kickMessage": "No squad leader kit equipped - automatically removed",\n
-      "frequencyOfWarnings": 30,\n
-      "kickTimeout": 300,\n
-      "playerThreshold": 51\n 
-      },\n
-
+<pre>
+       {
+      "plugin": "AutoKickNoSquadLeaderKit",
+      "enabled": true,
+      "warningMessage": "You must equip a squad leader kit to stay in this role.",
+      "kickMessage": "No squad leader kit equipped - automatically removed",
+      "frequencyOfWarnings": 30,
+      "kickTimeout": 300,
+      "playerThreshold": 51
+      },
+</pre>
 
 4. **MOTD Sample**
-   
+<pre>
 Top 10 RR Leaderboard:
     ELO       PLAYER
 | 2,208.21 | theseus |
