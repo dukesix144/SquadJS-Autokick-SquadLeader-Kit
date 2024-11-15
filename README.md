@@ -1,9 +1,10 @@
 This project, **SquadJS-Autokick-SquadLeader-Kit**, will kick a squad leader without a kit.
 
 Key features:
-- **Feature 1:** For SquadJS.
-
-
+- **Feature 1:** Autokick Squadleader is for Squad-JS.
+- **Feature 1:** Php script for generating webstats from Squad-JS database by combining data to new database.
+- **Feature 1:** Python script for generating ELO for new player stat database.
+- 
 ## Usage ##
 
 To get started with **SquadJS-Autokick-SquadLeader-Kit**, follow the steps below:
